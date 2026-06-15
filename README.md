@@ -1,1 +1,1 @@
-# Full README content here - but better to read local
+See local for full content
